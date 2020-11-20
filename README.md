@@ -1,6 +1,9 @@
 # Open-Space-Cellular_Automata
  A spatio-temporal approach based on Cellular Automata (CA) for simulating the spatial dynamics of open spaces (include urban green spaces, parks, squares, trails, courtyards, and other natural spaces), by considering a set of spatial data that represents the infrastructural and socio-economic factors, namely the OS-CA (Open Space Cellular Automata) model. The dynamic sub-model for OS is used to generate scenarios with different parameters (e.g. mean construction delays and mean area) for exploring the effects of planning policies on the future distribution of open space. The OS-CA considers the interactions and inter-attraction between open space and urban land in the simulation process. The proposed model can accurately predict the emergence of some open spaces.  
  
+# To cite this paper and software
+Liang X., Tian H., Li X.*, Huang J., Clarke KC, Yao Y., Guan Q., Hu G.*, Modeling the dynamics and walking accessibility of urban open spaces under various policy scenarios, Landscape and Urban Planning, Accepted, DOI: 10.1016/j.landurbplan.2020.103993
+ 
  # Interfaces
 ![add image](https://github.com/HPSCIL/Open-Space-Cellular_Automata/raw/master/pic1.png)
 ![add image](https://github.com/HPSCIL/Open-Space-Cellular_Automata/raw/master/pic2.png)
