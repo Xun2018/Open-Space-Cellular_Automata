@@ -5,6 +5,9 @@
 Liang X., Tian H., Li X.*, Huang J., Clarke KC, Yao Y., Guan Q., Hu G.*, Modeling the dynamics and walking accessibility of urban open spaces under various policy scenarios, Landscape and Urban Planning, Accepted, DOI: 10.1016/j.landurbplan.2020.103993
 
 # Baidu Cloud Download
+Link：https://pan.baidu.com/s/19v5fpr5DKqeI-xG8WBPA-Q 
+Code：3jcs 
+
 
  
  # Interfaces
