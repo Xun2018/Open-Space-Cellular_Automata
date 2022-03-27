@@ -10,7 +10,7 @@ Link：https://pan.baidu.com/s/19v5fpr5DKqeI-xG8WBPA-Q
 Code：3jcs 
 
 # More Information
-https://xun2018.github.io/
+https://xungst.github.io/
  
  # Interfaces
 ![add image](https://github.com/HPSCIL/Open-Space-Cellular_Automata/raw/master/pic1.png)
